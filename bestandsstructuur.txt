@@ -1,0 +1,57 @@
+1e laag 
+<html>
+
+index.html
+inlog.html
+uitlog.html
+accoundPagina.html
+voedingsPaginaZien.html
+voedingsPaginaInvullen.html
+voedingSchema.html
+oefeningenInvullen.html
+oefeningenZien.html
+berichtenPagina.html
+
+<css>
+
+global.css(kleur enz)
+index.css
+inlog.css
+uitlog.css
+accoundPagina.css
+voedingsPaginaZien.css
+voedingsPaginaInvullen.css
+voedingSchema.css
+oefeningenInvullen.css
+oefeningenZien.css
+berichtenPgina.css
+
+<js>
+
+Global.js
+snelCalCheck.js
+printPdf.js
+
+2e laag 
+
+index.php
+inlog.php
+uitlog.php
+accoundPagina.php
+voedingsPaginaZien.php
+voedingsPaginaInvullen.php
+voedingSchema.php
+oefeningenInvullen.php
+oefeningenZien.php
+berichtenPagina.php
+
+3e laag
+
+
+sql.php
+tablename.php
+conn.php
+
+???
+chat 
+

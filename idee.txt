@@ -1,0 +1,56 @@
+!!engels programmeren!!
+
+<!werking>
+
+producten in vullen in input van kcal , gram , eiwit , vet , (zout) , (suiker) , kolydraat, (foto) , prijs , winkel , soort eten.
+
+opslaan in de db , volgende pagna laten weergeven met checkbox , waarbij de aangecheckte producten in een lijst komen met totaal "macros" , (kunnen uitprinten/mailen).
+
+snel kcal bereken (js)
+
+
+"schema" opslaan in db (wel acc nodig).
+
+schema realtime verandere op wat je wil bijv kwark (soort).
+
+
+3 laag stuctuur : presentatie laag , verwerk/data en sql(beveiliging).
+
+
+inlogen zodat je eigen schema's kan beheren
+
+
+acc : 
+naam , leeftijd , gewicht , lengte 
+gewicht en lengte veranderen, (leeftijd automatisch);
+kcal berekenen met het gewicht en lengte en leeftijd in de db 
+berichten kunnen plaatsen / verwijderen / aanpassen. 
+
+account kunnen verwijderen.
+
+berichten kunnen zien op een aparte pagina
+sort op eigen berichten.
+
+train schema maken 
+
+oefeningen opslaan in de db met foto 
+
+weergeven met een checkbox , waarbij de aangecheckte oefeningen in een lijst komen , waarbij je aantal sets en reps kan invullen en totalen tijd van work out
+
+kunnen opslaan in db (wel acc nodig).
+
+chat optie
+
+
+
+
+!!engels programmeren!!
+
+
+<!opmaak en style>
+
+slider van afbeeldingen van gerechten en oefeningen van max 6.
+nav bar met drop down. 
+kleur combo : licht grijs 
+
+
